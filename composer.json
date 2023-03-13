@@ -1,0 +1,22 @@
+{
+    "name": "codedspirit/aprendiendo-namespaces-y-autoload",
+    "description": "Mis primeros pasos en composer",
+    "autoload": {
+        "psr-4": {
+            "Codedspirit\\AprendiendoNamespacesYAutoload\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HalfSeraphic"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\" : "./clases"
+        }
+    }
+}
