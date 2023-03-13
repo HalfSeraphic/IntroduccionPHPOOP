@@ -1,0 +1,13 @@
+{
+    "editor.fontFamily": "Victor Mono, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 16,
+    "editor.guides.indentation": true,
+    "workbench.tree.renderIndentGuides": "onHover",
+    "php.format.rules.indentBraces": false,
+    "files.autoSave": "onWindowChange",
+    "editor.cursorBlinking": "expand",
+    "editor.minimap.showSlider": "always",
+    "workbench.colorCustomizations": {
+        
+    }
+}
